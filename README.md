@@ -31,6 +31,7 @@ Librería usada:
 FastSPI_LED2 (googlear)
 
 Si utilizas shift registers (74HC595) y leds RGB, descargar:
+Información sobre librería y electrónica: http://www.elcojacobs.com/shiftpwm/
 
 Sketch:
 AMBILIGHT_CON_74HC595.ino
