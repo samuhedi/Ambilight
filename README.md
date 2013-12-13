@@ -1,7 +1,12 @@
 Ambilight
 =========
 
-ambilight systems
+SISTEMA AMBILIGHT 
+
+ACLARACIONES:
+
+Los códigos para el Arduino no son de mi autoría, yo solo los modifiqué para lograr hacer funcionar el sistema. Ya que para ests casos particulares no hay mucha información clara en la RED
+
 
 Este repositorio contiene información para quienes quieran hacerse un sistema de Ambilight (como el de los tv philips) casero utilizando Arduino y una PC con Windows.
 
